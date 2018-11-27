@@ -6,7 +6,7 @@ body{
 p{ 
   text-align: center; 
   font-size: 255%; 
-  font-style: oblique;
+  font-style: sans-serif;
   color: rgb(0, 0, 0) ;
   border: 20px single black;
  
@@ -14,8 +14,8 @@ p{
 
 h1{
   text-align: center; 
-  font-size: 255%; 
-  font-style: oblique;
+  font-size: 430%; 
+  font-style: monospace;
   color: white;
   border: 20px double black;
 }
@@ -30,7 +30,7 @@ h1{
   background-color: rgb(128, 214, 255) ;
   border: 5px solid rgba(0, 0, 0);
   padding: 50px;
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
 } 
 
